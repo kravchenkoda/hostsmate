@@ -8,7 +8,6 @@ def main() -> None:
     cli_args_parser: Parser = Parser()
     cli_arg: tuple[str, str | bool] = cli_args_parser.parse_single_arg()
     CLIMethodExecutor().execute(cli_arg)
-    print(f'Logs located at: {HostsLogger.get_logs_dir()}')
 
 
 if __name__ == '__main__':
