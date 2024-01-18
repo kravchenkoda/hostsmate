@@ -1,6 +1,5 @@
 from hostsmate_src.cli.parser import Parser
 from hostsmate_src.cli.cli_method_executor import CLIMethodExecutor
-from hostsmate_src.logger import HostsLogger
 
 
 def main() -> None:
