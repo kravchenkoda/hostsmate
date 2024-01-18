@@ -82,7 +82,7 @@ Autorun frequency may be set to *daily*, *weekly* or *monthly*. Daily is recomme
 ## Logs
 
 
-A log file is created for every date `hostsmate` ran in `/var/logs/hostsmate` directory.
+A log file is created for every date `hostsmate` ran in `/var/log/hostsmate` directory.
 
 ## License
 
