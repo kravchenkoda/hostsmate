@@ -3,7 +3,7 @@
 # HostsMate
 
 
-Welcome to HostsMate! A CLI tool for Unix-like operating systems that works with /etc/hosts file.
+Welcome to [HostsMate](https://pypi.org/project/hostsmate/)! A CLI tool for Unix-like operating systems that works with /etc/hosts file.
 
 Protect yourself from malware, tracking, ads, and spam. HostsMate blocks over 1.2M domains from regularly updated sources to keep your system safe. Customize blacklist and whitelist sources, manually block or whitelist domains, suspend HostsMate if necessary.
 
